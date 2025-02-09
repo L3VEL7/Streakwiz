@@ -1,0 +1,2 @@
+# Streakwiz
+Discord Streak bot
